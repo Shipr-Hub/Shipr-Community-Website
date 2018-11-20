@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "shipr-860a6"
+  },
+  "targets": {
+    "shipr-860a6": {
+      "hosting": {
+        "community": [
+          "shiprcommunity"
+        ]
+      }
+    }
+  }
+}
